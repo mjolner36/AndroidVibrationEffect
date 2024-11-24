@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-AndroidVibrationEffect.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Ruslan\Documents\Unreal Projects\AndroidVibration\Intermediate\Build\Win64\x64\AndroidVibrationEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\Ruslan\Documents\Unreal Projects\AndroidVibration\Plugins\AndroidVibrationEffect\Intermediate\Build\Win64\x64\UnrealEditor\Development\AndroidVibrationEffect\Module.AndroidVibrationEffect.cpp.obj"
+"C:\Users\Ruslan\Documents\Unreal Projects\AndroidVibration\Plugins\AndroidVibrationEffect\Intermediate\Build\Win64\x64\UnrealEditor\Development\AndroidVibrationEffect\AndroidVibrationEffect.cpp.obj"
+"C:\Users\Ruslan\Documents\Unreal Projects\AndroidVibration\Plugins\AndroidVibrationEffect\Intermediate\Build\Win64\x64\UnrealEditor\Development\AndroidVibrationEffect\AndroidVibrationEffectBPLibrary.cpp.obj"
+"C:\Users\Ruslan\Documents\Unreal Projects\AndroidVibration\Plugins\AndroidVibrationEffect\Intermediate\Build\Win64\x64\UnrealEditor\Development\AndroidVibrationEffect\Default.rc2.res"
+/OUT:"C:\Users\Ruslan\Documents\Unreal Projects\AndroidVibration\Plugins\AndroidVibrationEffect\Intermediate\Build\Win64\x64\UnrealEditor\Development\AndroidVibrationEffect\UnrealEditor-AndroidVibrationEffect.lib"

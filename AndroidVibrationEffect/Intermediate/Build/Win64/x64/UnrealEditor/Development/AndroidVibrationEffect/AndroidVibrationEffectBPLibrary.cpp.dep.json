@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\ruslan\\documents\\unreal projects\\androidvibration\\plugins\\androidvibrationeffect\\source\\androidvibrationeffect\\private\\androidvibrationeffectbplibrary.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\ruslan\\documents\\unreal projects\\androidvibration\\intermediate\\build\\win64\\x64\\androidvibrationeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\ruslan\\documents\\unreal projects\\androidvibration\\plugins\\androidvibrationeffect\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\androidvibrationeffect\\definitions.androidvibrationeffect.h",
+            "c:\\users\\ruslan\\documents\\unreal projects\\androidvibration\\plugins\\androidvibrationeffect\\source\\androidvibrationeffect\\public\\androidvibrationeffectbplibrary.h",
+            "c:\\users\\ruslan\\documents\\unreal projects\\androidvibration\\plugins\\androidvibrationeffect\\intermediate\\build\\win64\\unrealeditor\\inc\\androidvibrationeffect\\uht\\androidvibrationeffectbplibrary.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

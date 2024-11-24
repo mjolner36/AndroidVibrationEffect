@@ -1,0 +1,11 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.AndroidVibrationEffect.cpp.obj": [
+			"AndroidVibrationEffect.init.gen.cpp.obj",
+			"AndroidVibrationEffectBPLibrary.gen.cpp.obj",
+			"AndroidVibrationEffect.cpp.obj",
+			"AndroidVibrationEffectBPLibrary.cpp.obj"
+		]
+	}
+}

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+    Copyright (c) 2024 Mjolner Studios
+-->
+<root xmlns:android="http://schemas.android.com/apk/res/android">
+    <platform name="android">
+        <!-- Добавление разрешения на вибрацию в AndroidManifest -->
+        <androidManifestUpdates>
+            <if condition="VibratePermission">
+                <true>
+                    <addPermission android:name="android.permission.VIBRATE"/>
+                </true>
+            </if>
+        </androidManifestUpdates>
+
+        <prebuildCopies>
+            <copyDir src="$S(PluginDir)/Private/Java" dst="$S(BuildDir)/src/com/mjolner/androidvibrationeffect"/>
+        </prebuildCopies>
+    </platform>
+</root>
